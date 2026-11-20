@@ -1,0 +1,8 @@
+# Generated reports – they contain tenant data, never commit them
+SharedMailboxAccess_*.csv
+SharedMailboxAccess_*.html
+
+# OS / editor files
+Thumbs.db
+.DS_Store
+.vscode/
